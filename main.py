@@ -16,7 +16,7 @@ customtkinter.set_default_color_theme("green")  # Themes: blue (default), dark-b
 
 # Data Read
 
-dataset = pandas.read_csv('/Users/soyimoi/Documents/Python Projects/Vocabulator/data/sve_eng_db.csv')
+dataset = pandas.read_csv('///your path here///')
 data_dic = dataset.to_dict(orient='records')
 #print(data_dic)
 
