@@ -1,4 +1,4 @@
-# vocabulator
+# Vocabulary-app
 
 Vocabulary app to help you in your Swedish learning journey. 
 
